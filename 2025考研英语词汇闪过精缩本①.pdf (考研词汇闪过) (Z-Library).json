@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "2.9 Final (Manual Sync Control)",
-    "currentIndex": 379,
+    "currentIndex": 380,
     "currentFavoritesIndex": 0,
-    "progress_learned": 184,
+    "progress_learned": 230,
     "progress_total": 2203,
     "model_name": "gemini-2.5-flash",
     "api_key": "AIzaSyAZF7Caepy3GLWWSW5a9MSHzMPF-RKPAXY"
@@ -5249,7 +5249,7 @@
       "user_data": {
         "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "jury陪审团",
         "learning_count": 0,
         "is_learned": false
       }
@@ -5281,7 +5281,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5316,7 +5316,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5347,7 +5347,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5378,7 +5378,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5409,11 +5409,11 @@
         "fairness"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5441,9 +5441,9 @@
       "user_data": {
         "is_favorite": false,
         "seen": false,
-        "note": "",
+        "note": "laboratory 注意有一个a laboratory laboratory",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5472,9 +5472,9 @@
       "user_data": {
         "is_favorite": false,
         "seen": false,
-        "note": "",
+        "note": "collapse",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5507,9 +5507,9 @@
       "user_data": {
         "is_favorite": false,
         "seen": false,
-        "note": "",
+        "note": "select",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5539,7 +5539,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5573,9 +5573,9 @@
         "ignore"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "neglect是指因为疏忽而没有做某事 neglect",
         "learning_count": 0,
         "is_learned": false
       }
@@ -5609,9 +5609,9 @@
       "user_data": {
         "is_favorite": false,
         "seen": false,
-        "note": "",
+        "note": "collection一群人 收藏品 作品集",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5638,9 +5638,9 @@
         "individual"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "集体的 collective collective",
         "learning_count": 0,
         "is_learned": false
       }
@@ -5673,7 +5673,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5700,9 +5700,9 @@
         "asset"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "liability",
         "learning_count": 0,
         "is_learned": false
       }
@@ -5735,9 +5735,9 @@
         "region"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "religion religion religion religion",
         "learning_count": 0,
         "is_learned": false
       }
@@ -5766,7 +5766,7 @@
         "irreligious"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -5800,7 +5800,7 @@
         "legal"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -5833,9 +5833,9 @@
       "user_data": {
         "is_favorite": false,
         "seen": false,
-        "note": "",
+        "note": "illegal",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5893,7 +5893,7 @@
         "reactionary"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -5931,7 +5931,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5967,7 +5967,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5998,7 +5998,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6025,11 +6025,11 @@
         "establish"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6060,7 +6060,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6092,7 +6092,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6123,7 +6123,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6155,7 +6155,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6182,11 +6182,11 @@
         "eager"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "reluctant reluctant neglect",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6217,7 +6217,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6243,7 +6243,7 @@
         "analysis"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -6277,7 +6277,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6308,7 +6308,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6340,7 +6340,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6370,7 +6370,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6400,7 +6400,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6434,7 +6434,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6468,7 +6468,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6496,7 +6496,7 @@
         "commonplace"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -6539,7 +6539,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6597,9 +6597,9 @@
         "manual"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "有个mechanical mechanism mechanical\n\n--- AI Reply ---\n没有。\n\nmechnical 是 mechanical 这个单词的常见拼写错误。\n正确的拼写是 mechanical。\n注意字母 a 的位置。",
         "learning_count": 0,
         "is_learned": false
       }
@@ -6628,9 +6628,9 @@
         "mechanism"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "machinery注意这是一个名词不可数",
         "learning_count": 0,
         "is_learned": false
       }
@@ -6662,7 +6662,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6691,9 +6691,9 @@
       "user_data": {
         "is_favorite": false,
         "seen": false,
-        "note": "",
+        "note": "immediate注意有个e",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6727,7 +6727,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6765,7 +6765,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6795,7 +6795,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6826,7 +6826,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6857,7 +6857,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6883,11 +6883,11 @@
         "migrant"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "immigrant",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6921,7 +6921,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -6953,9 +6953,9 @@
         "grow"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "diminish 减少 比reduce更正式 diminish",
         "learning_count": 0,
         "is_learned": false
       }
@@ -6989,7 +6989,7 @@
       "user_data": {
         "is_favorite": false,
         "seen": false,
-        "note": "",
+        "note": "政府或者管理 均是名词 administration",
         "learning_count": 0,
         "is_learned": false
       }
@@ -7022,7 +7022,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -7056,7 +7056,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -7089,7 +7089,7 @@
       "user_data": {
         "is_favorite": false,
         "seen": false,
-        "note": "",
+        "note": "犯罪 承诺。投入 commit sb to sth commit a crime 犯错即物 付出不即物 承诺 commit to sth。commit to doing sth\n\n--- AI Reply ---\nCommit 用作“承诺”时，表示下定决心去做某事，或承担某种责任。\n\n用法包括：\n1.  Commit to something / doing something: 承诺去做某事或致力于某事。\n    *   例如：He committed to finishing the project on time. (他承诺按时完成项目。)\n    *   例如：The company committed to reducing its carbon footprint. (公司承诺减少碳排放。)\n\n2.  Commit oneself to something / someone: 投身于某事或献身于某人/某事。\n    *   例如：She committed herself to her studies. (她全身心投入学习。)\n\n3.  名词形式是 commitment，常说 make a commitment to do something，表示做出承诺。\n    *   例如：We need to make a commitment to improve our service. (我们需要承诺改进服务。)\n\n4.  形容词形式是 committed，表示坚定的、尽心尽力的。\n    *   例如：She is a committed teacher. (她是一位尽职尽责的老师。)",
         "learning_count": 0,
         "is_learned": false
       }
@@ -7121,7 +7121,7 @@
         "promise"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -7153,11 +7153,11 @@
         "accept"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "不考虑 驳回 解雇",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -7188,7 +7188,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -7218,7 +7218,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -7249,7 +7249,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -7282,9 +7282,9 @@
         "permission"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "commission 委员会",
         "learning_count": 0,
         "is_learned": false
       }
@@ -7318,7 +7318,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -7346,7 +7346,7 @@
       "user_data": {
         "is_favorite": false,
         "seen": false,
-        "note": "",
+        "note": "commidity。商品\n\n--- AI Reply ---\n它常与以下词搭配使用：\n\n描述商品类型：能源商品 (energy commodity)，农产品 (agricultural commodity)，原材料商品 (raw material commodity)，贵重商品 (precious commodity)。\n描述相关市场或活动：商品市场 (commodity market)，商品价格 (commodity prices)，商品交易 (commodity trading)，商品交易所 (commodity exchange)，商品期货 (commodity futures)。\n描述其特性：稀缺商品 (scarce commodity)，宝贵商品 (valuable commodity)，必需商品 (essential commodity)。\n动词：交易商品 (trade commodities)，买卖商品 (buy and sell commodities)，生产商品 (produce commodities)。\n\n--- AI Reply ---\ncommodities",
         "learning_count": 0,
         "is_learned": false
       }
@@ -10254,9 +10254,9 @@
       "synonyms": "rule, tenet, standard, belief, doctrine",
       "confused_words": "principal (校长; 主要的)",
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "原理是principle 校长是principal 还有一个主要的意思 principal principle principal",
         "learning_count": 7,
         "is_learned": true
       }
@@ -10280,7 +10280,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 4,
+        "learning_count": 5,
         "is_learned": true
       }
     },
