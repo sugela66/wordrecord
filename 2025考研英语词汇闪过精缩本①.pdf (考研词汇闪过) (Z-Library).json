@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "2.9 Final (Manual Sync Control)",
-    "currentIndex": 381,
+    "currentIndex": 382,
     "currentFavoritesIndex": 0,
-    "progress_learned": 121,
+    "progress_learned": 124,
     "progress_total": 2203,
     "model_name": "gemini-2.5-flash",
     "api_key": "AIzaSyAZF7Caepy3GLWWSW5a9MSHzMPF-RKPAXY"
@@ -10326,8 +10326,8 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
-        "is_learned": false
+        "learning_count": 4,
+        "is_learned": true
       }
     },
     {
@@ -10350,8 +10350,8 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
-        "is_learned": false
+        "learning_count": 4,
+        "is_learned": true
       }
     },
     {
@@ -10373,8 +10373,8 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
-        "is_learned": false
+        "learning_count": 5,
+        "is_learned": true
       }
     },
     {
@@ -10396,7 +10396,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 4,
         "is_learned": false
       }
     },
@@ -10419,7 +10419,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 2,
         "is_learned": false
       }
     },
