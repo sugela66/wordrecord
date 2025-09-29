@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "2.1 Final",
+    "version": "2.9 Final (Manual Sync)",
     "currentIndex": 0,
     "currentFavoritesIndex": 0,
     "progress_learned": 0,
@@ -34,7 +34,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "--- AI Reply ---\n“宫殿”是通用词，指宏伟的皇家或官方建筑。“皇宫”则特指皇帝的宫殿，是“宫殿”的一种。",
-        "learning_count": 8,
+        "learning_count": 9,
         "is_learned": false
       }
     },
