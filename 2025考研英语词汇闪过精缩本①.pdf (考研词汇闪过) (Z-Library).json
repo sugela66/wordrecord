@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "2.9 Final (Manual Sync Control)",
-    "currentIndex": 382,
+    "currentIndex": 379,
     "currentFavoritesIndex": 0,
-    "progress_learned": 124,
+    "progress_learned": 169,
     "progress_total": 2203,
     "model_name": "gemini-2.5-flash",
     "api_key": "AIzaSyAZF7Caepy3GLWWSW5a9MSHzMPF-RKPAXY"
@@ -3085,7 +3085,7 @@
         "seen": false,
         "note": "elctricity",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3279,7 +3279,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3350,7 +3350,7 @@
         "seen": false,
         "note": "",
         "learning_count": 2,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3372,7 +3372,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3395,7 +3395,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3418,7 +3418,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3442,7 +3442,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3464,7 +3464,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3491,7 +3491,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3514,7 +3514,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3537,7 +3537,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3560,7 +3560,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3584,7 +3584,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3607,7 +3607,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3629,7 +3629,7 @@
         "seen": false,
         "note": "",
         "learning_count": 2,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3648,7 +3648,7 @@
       "error_prone_point": "指全体教员时，是集合名词，可作单数或复数；指院系时是可数名词。",
       "synonym": "staff, department, school",
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 2,
@@ -3671,11 +3671,11 @@
       "synonym": "enough, adequate, ample",
       "antonym": "insufficient, inadequate",
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3698,7 +3698,7 @@
         "seen": false,
         "note": "",
         "learning_count": 2,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3721,7 +3721,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3744,7 +3744,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3767,7 +3767,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3799,7 +3799,7 @@
         "seen": false,
         "note": "",
         "learning_count": 1,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3818,11 +3818,11 @@
       "synonym": "lucrative, rewarding, beneficial, fruitful",
       "antonym": "unprofitable, loss-making",
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 2,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3846,7 +3846,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3869,7 +3869,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3892,7 +3892,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3915,7 +3915,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3938,7 +3938,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3961,7 +3961,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -3983,7 +3983,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4005,7 +4005,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4032,7 +4032,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4055,7 +4055,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4074,7 +4074,7 @@
       "synonym": "strengthen, support, fortify, bolster",
       "antonym": "weaken, undermine",
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -4101,7 +4101,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4124,7 +4124,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4148,7 +4148,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4168,7 +4168,7 @@
       "synonym": "face, encounter, tackle, challenge",
       "antonym": "avoid, evade",
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -4214,7 +4214,7 @@
       "synonym": "hereditary, inherited",
       "confused_word": "gene [基因]",
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -4241,7 +4241,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4263,7 +4263,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4286,7 +4286,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4321,7 +4321,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4351,7 +4351,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4382,7 +4382,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4417,7 +4417,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4445,7 +4445,7 @@
         "peaceful"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -10230,10 +10230,10 @@
       "synonyms": "restrain, contain, repress, crush",
       "confused_words": "oppress (压迫)",
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
-        "learning_count": 2,
+        "learning_count": 4,
         "is_learned": false
       }
     },
@@ -10257,8 +10257,8 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 2,
-        "is_learned": false
+        "learning_count": 6,
+        "is_learned": true
       }
     },
     {
@@ -10280,8 +10280,8 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 2,
-        "is_learned": false
+        "learning_count": 4,
+        "is_learned": true
       }
     },
     {
@@ -10303,8 +10303,8 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 3,
-        "is_learned": false
+        "learning_count": 5,
+        "is_learned": true
       }
     },
     {
