@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "2.3 Final",
+    "version": "2.9 Final (Manual Sync)",
     "currentIndex": 340,
     "currentFavoritesIndex": 0,
     "progress_learned": 121,
@@ -9313,7 +9313,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 3,
+        "learning_count": 10,
         "is_learned": false
       }
     },
