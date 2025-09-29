@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "3.0 Final (Keyboard Shortcuts Fixed)",
-    "currentIndex": 373,
+    "version": "2.9 Final (Manual Sync Control)",
+    "currentIndex": 381,
     "currentFavoritesIndex": 0,
     "progress_learned": 121,
     "progress_total": 2203,
@@ -10112,7 +10112,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 3,
+        "learning_count": 4,
         "is_learned": false
       }
     },
@@ -10139,7 +10139,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 2,
         "is_learned": false
       }
     },
@@ -10162,7 +10162,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 2,
         "is_learned": false
       }
     },
@@ -10186,7 +10186,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 2,
         "is_learned": false
       }
     },
@@ -10209,7 +10209,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 2,
         "is_learned": false
       }
     },
@@ -10233,7 +10233,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 2,
         "is_learned": false
       }
     },
@@ -10257,7 +10257,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 2,
         "is_learned": false
       }
     },
@@ -10280,7 +10280,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 2,
         "is_learned": false
       }
     },
@@ -10303,7 +10303,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 2,
         "is_learned": false
       }
     },
