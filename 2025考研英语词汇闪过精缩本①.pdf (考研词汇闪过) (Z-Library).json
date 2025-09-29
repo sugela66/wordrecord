@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "2.8 Final (Manual Sync Button)",
-    "currentIndex": 363,
+    "currentIndex": 368,
     "currentFavoritesIndex": 0,
     "progress_learned": 121,
     "progress_total": 2203,
@@ -9895,7 +9895,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 0,
+        "learning_count": 1,
         "is_learned": false
       }
     },
@@ -9918,7 +9918,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 0,
+        "learning_count": 1,
         "is_learned": false
       }
     },
@@ -9941,7 +9941,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 0,
+        "learning_count": 1,
         "is_learned": false
       }
     },
@@ -9965,7 +9965,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 0,
+        "learning_count": 1,
         "is_learned": false
       }
     },
@@ -9992,7 +9992,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 0,
+        "learning_count": 1,
         "is_learned": false
       }
     },
