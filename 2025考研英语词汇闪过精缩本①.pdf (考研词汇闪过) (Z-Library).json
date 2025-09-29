@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "2.1 Final",
-    "currentIndex": 133,
+    "currentIndex": 135,
     "currentFavoritesIndex": 0,
-    "progress_learned": 119,
+    "progress_learned": 121,
     "progress_total": 2203,
     "model_name": "gemini-2.5-flash",
     "api_key": "AIzaSyAZF7Caepy3GLWWSW5a9MSHzMPF-RKPAXY"
@@ -3299,11 +3299,11 @@
       "synonym": "protection, guard, security, resistance",
       "antonym": "offense, attack",
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
-        "learning_count": 4,
-        "is_learned": false
+        "learning_count": 5,
+        "is_learned": true
       }
     },
     {
@@ -3325,9 +3325,9 @@
       "user_data": {
         "is_favorite": false,
         "seen": false,
-        "note": "",
-        "learning_count": 0,
-        "is_learned": false
+        "note": "--- AI Reply ---\n这个词源于拉丁语 differre。它由前缀 dis-（表示“分开，离开”）和动词 ferre（表示“携带，承载”）组成。字面意思为“向不同方向携带”或“带走”，由此引申出“有差异，不同”的含义。",
+        "learning_count": 1,
+        "is_learned": true
       }
     },
     {
@@ -3349,7 +3349,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 0,
+        "learning_count": 1,
         "is_learned": false
       }
     },
