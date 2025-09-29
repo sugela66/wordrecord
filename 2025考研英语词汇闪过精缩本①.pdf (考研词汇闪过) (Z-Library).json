@@ -1,12 +1,7 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "version": "2.5 Final (AI Prompt & Layout Tweak)",
-    "currentIndex": 133,
-=======
     "version": "2.3 Final",
     "currentIndex": 308,
->>>>>>> 6cd5551fc2f6978829a6bf7006c2313140e8f69d
     "currentFavoritesIndex": 0,
     "progress_learned": 121,
     "progress_total": 2203,
@@ -3308,11 +3303,7 @@
         "seen": false,
         "note": "",
         "learning_count": 5,
-<<<<<<< HEAD
-        "is_learned": false
-=======
         "is_learned": true
->>>>>>> 6cd5551fc2f6978829a6bf7006c2313140e8f69d
       }
     },
     {
