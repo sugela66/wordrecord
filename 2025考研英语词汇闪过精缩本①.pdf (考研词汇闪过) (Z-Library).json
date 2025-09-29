@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "2.2 Final",
-    "currentIndex": 147,
+    "version": "2.3 Final",
+    "currentIndex": 148,
     "currentFavoritesIndex": 0,
     "progress_learned": 121,
     "progress_total": 2203,
@@ -3628,7 +3628,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 2,
         "is_learned": false
       }
     },
@@ -3651,7 +3651,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 0,
+        "learning_count": 1,
         "is_learned": false
       }
     },
