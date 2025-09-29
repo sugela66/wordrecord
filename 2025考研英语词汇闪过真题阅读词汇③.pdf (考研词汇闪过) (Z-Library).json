@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "3.0 Final (UI Feedback Polish)",
-    "currentIndex": 0,
+    "currentIndex": 199,
     "currentFavoritesIndex": 0,
     "progress_learned": 0,
     "progress_total": 639,
@@ -77,7 +77,7 @@
         "is_favorite": true,
         "seen": true,
         "note": "",
-        "learning_count": 3,
+        "learning_count": 4,
         "is_learned": false
       }
     },
@@ -112,7 +112,7 @@
         "is_favorite": true,
         "seen": true,
         "note": "",
-        "learning_count": 3,
+        "learning_count": 4,
         "is_learned": false
       }
     },
@@ -148,7 +148,7 @@
         "is_favorite": false,
         "seen": true,
         "note": "",
-        "learning_count": 5,
+        "learning_count": 6,
         "is_learned": false
       }
     },
@@ -185,7 +185,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 6,
+        "learning_count": 7,
         "is_learned": false
       }
     },
@@ -222,7 +222,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 6,
+        "learning_count": 7,
         "is_learned": false
       }
     },
@@ -258,7 +258,7 @@
         "is_favorite": true,
         "seen": false,
         "note": "",
-        "learning_count": 5,
+        "learning_count": 6,
         "is_learned": false
       }
     },
@@ -293,7 +293,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 3,
+        "learning_count": 4,
         "is_learned": false
       }
     },
@@ -329,7 +329,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 3,
+        "learning_count": 4,
         "is_learned": false
       }
     },
@@ -364,7 +364,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 3,
+        "learning_count": 5,
         "is_learned": false
       }
     },
@@ -2264,7 +2264,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 1,
+        "learning_count": 3,
         "is_learned": false
       }
     },
@@ -4661,7 +4661,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 0,
+        "learning_count": 1,
         "is_learned": false
       }
     },
