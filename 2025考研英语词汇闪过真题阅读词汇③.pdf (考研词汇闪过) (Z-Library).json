@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "3.0 Final (UI Feedback Polish)",
-    "currentIndex": 200,
+    "version": "2.1 Final",
+    "currentIndex": 0,
     "currentFavoritesIndex": 0,
     "progress_learned": 0,
     "progress_total": 639,
@@ -41,7 +41,7 @@
         "is_favorite": true,
         "seen": true,
         "note": "",
-        "learning_count": 11,
+        "learning_count": 7,
         "is_learned": false
       }
     },
@@ -222,7 +222,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 7,
+        "learning_count": 6,
         "is_learned": false
       }
     },
