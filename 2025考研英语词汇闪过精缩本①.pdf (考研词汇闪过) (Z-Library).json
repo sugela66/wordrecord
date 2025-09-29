@@ -3,7 +3,7 @@
     "version": "2.9 Final (Manual Sync Control)",
     "currentIndex": 380,
     "currentFavoritesIndex": 0,
-    "progress_learned": 230,
+    "progress_learned": 234,
     "progress_total": 2203,
     "model_name": "gemini-2.5-flash",
     "api_key": "AIzaSyAZF7Caepy3GLWWSW5a9MSHzMPF-RKPAXY"
@@ -7383,7 +7383,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -7414,9 +7414,9 @@
         "administrate"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
-        "note": "",
+        "note": "表现 展示 demonstration\n\n--- AI Reply ---\n使用'demonstrate'时，常见错误有两点：\n\n1.  **过度使用或用词过于正式：** 有时学生会用'demonstrate'来代替更简单、自然的词，如'show'或'explain'。'Demonstrate'通常指更正式、详细、实践性地展示或证明某事。例如，说\"Can you show me how to open this?\"比\"Can you demonstrate how to open this?\"更常用。\n\n2.  **混淆其两个主要含义：** 'Demonstrate'有两个截然不同的意思。\n    *   **展示或证明：** 表示“展示如何操作”或“证明某事属实”（例如：She demonstrated the new software. / 他展示了他的技能。）。\n    *   **公开抗议：** 表示“进行公开抗议或示威”（例如：People demonstrated against the new policy. / 人们抗议新政策。）。\n    混淆这两个意思会导致误解。\n\n\n后面接against来抗议",
         "learning_count": 0,
         "is_learned": false
       }
@@ -7446,7 +7446,7 @@
         "hinder"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -7483,7 +7483,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -7515,7 +7515,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -7546,7 +7546,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -7579,7 +7579,7 @@
         "delayed"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
