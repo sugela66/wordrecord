@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "2.1 Final",
+    "version": "2.5 Final (AI Prompt & Layout Tweak)",
     "currentIndex": 133,
     "currentFavoritesIndex": 0,
     "progress_learned": 119,
@@ -3302,7 +3302,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 4,
+        "learning_count": 5,
         "is_learned": false
       }
     },
