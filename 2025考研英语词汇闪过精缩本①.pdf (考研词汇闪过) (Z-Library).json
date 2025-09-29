@@ -3,7 +3,7 @@
     "version": "2.9 Final (Manual Sync Control)",
     "currentIndex": 379,
     "currentFavoritesIndex": 0,
-    "progress_learned": 169,
+    "progress_learned": 184,
     "progress_total": 2203,
     "model_name": "gemini-2.5-flash",
     "api_key": "AIzaSyAZF7Caepy3GLWWSW5a9MSHzMPF-RKPAXY"
@@ -4479,7 +4479,7 @@
         "grade"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -4509,7 +4509,7 @@
         "conference"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -4540,7 +4540,7 @@
         "acquired"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -4612,7 +4612,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4642,7 +4642,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4671,7 +4671,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4731,7 +4731,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4761,7 +4761,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4792,7 +4792,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4822,7 +4822,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4849,7 +4849,7 @@
         "initiate"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -4888,7 +4888,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4918,7 +4918,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -4948,7 +4948,7 @@
         "intelligent"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -5017,7 +5017,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5052,7 +5052,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5082,7 +5082,7 @@
         "transaction"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -5125,7 +5125,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5156,7 +5156,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5191,7 +5191,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5222,7 +5222,7 @@
         "seen": false,
         "note": "",
         "learning_count": 0,
-        "is_learned": false
+        "is_learned": true
       }
     },
     {
@@ -5247,7 +5247,7 @@
         "judge"
       ],
       "user_data": {
-        "is_favorite": false,
+        "is_favorite": true,
         "seen": false,
         "note": "",
         "learning_count": 0,
@@ -10257,7 +10257,7 @@
         "is_favorite": false,
         "seen": false,
         "note": "",
-        "learning_count": 6,
+        "learning_count": 7,
         "is_learned": true
       }
     },
